@@ -9,13 +9,15 @@ Recognized for my dedication, discipline, and helpfulness to colleagues, I was o
 
 
 🚀 What I'm Working On
-- Learning NodeJs, ExpressJs, MongoDb, SQL
+- Fullstack project D-books 
 - JavaScript & React: Actively practicing React, JavaScript, and TypeScript, continuously learning best practices, good coding habits, and writing clean code.
 
 
 ### ⚙️ Technology Stack:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJs](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![Express.Js](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
